@@ -1,0 +1,23 @@
+body {
+    background-color: yellow;
+}
+
+.main {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color: rgb(82, 147, 231);
+}
+
+.mcd-img {
+    top: -40px;
+    position: relative;
+}
